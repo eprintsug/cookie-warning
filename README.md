@@ -1,7 +1,7 @@
 cookies
-==============
+===========
 
-Cookie Warning package for EPrints. Uses bootstrap for styling but does not rely on the Bootstrap theme pack.
+Cookies package for EPrints. Asks users to accept or decline cookies.  Uses bootstrap for styling but does not rely on the Bootstrap theme pack.
 
 
 Download
